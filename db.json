@@ -2252,5 +2252,431 @@
       "popUpMess": "DELIVERY IN 80 MINUTES"
     }
   ],
-  "nbCart": []
+  "nbCart": [],
+  "questions": [
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which popular First Person Shooter (FPS) franchise, got a Real Time Strategy (RTS) game developed based on its universe?",
+      "correct_answer": "Halo",
+      "incorrect_answers": ["Battlefield", "Call of Duty", "Borderlands"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "In the game &quot;The Sims&quot;, how many Simoleons does each family start with?",
+      "correct_answer": "20,000",
+      "incorrect_answers": ["10,000", "15,000", "25,000"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which rap group released the album &quot;Straight Outta Compton&quot;?",
+      "correct_answer": "N.W.A",
+      "incorrect_answers": ["Wu-Tang Clan", "Run-D.M.C.", "Beastie Boys"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "A doctor with a PhD is a doctor of what?",
+      "correct_answer": "Philosophy",
+      "incorrect_answers": ["Psychology", "Phrenology", "Physical Therapy"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "How many degrees Fahrenheit is 100 degrees Celsius? ",
+      "correct_answer": "212",
+      "incorrect_answers": ["326", "100", "451"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which singer was featured in Swedish producer Avicii&#039;s song &quot;Wake Me Up&quot;?",
+      "correct_answer": "Aloe Blacc",
+      "incorrect_answers": ["John Legend", "CeeLo Green", "Pharrell Williams"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the shape of the toy invented by Hungarian professor Ernő Rubik?",
+      "correct_answer": "Cube",
+      "incorrect_answers": ["Sphere", "Cylinder", "Pyramid"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "When did Jamaica recieve its independence from England? ",
+      "correct_answer": "1962",
+      "incorrect_answers": ["1492", "1963", "1987"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "All of the following countries have official claims to territory in Antartica EXCEPT:",
+      "correct_answer": "United States",
+      "incorrect_answers": ["Australia", "Chile", "Norway"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which puzzle game was designed by a Russian programmer, featuring Russian buildings and music?",
+      "correct_answer": "Tetris",
+      "incorrect_answers": ["Jenga", "Boulder Dash", "Puzzled"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of the State of Washington, United States?",
+      "correct_answer": "Olympia",
+      "incorrect_answers": ["Washington D.C.", "Seattle", "Yukon"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In &quot;Shakugan no Shana&quot; what was the Shana usually referred as?",
+      "correct_answer": "Flame-Haired Burning-Eyed Hunter",
+      "incorrect_answers": [
+        "Flame Haze",
+        "Flame-Haired Burning-Eyed Haze",
+        "Shana"
+      ]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which movie sequel had improved box office results compared to its original film?",
+      "correct_answer": "Toy Story 2",
+      "incorrect_answers": [
+        "Sin City: A Dame to Kill For",
+        "Speed 2: Cruise Control",
+        "Son of the Mask"
+      ]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Vietnam is the only country in the world that starts with V. ",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Geography",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Gothenburg is the capital of Sweden.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The stop motion comedy show &quot;Robot Chicken&quot; was created by which of the following?",
+      "correct_answer": "Seth Green",
+      "incorrect_answers": ["Seth MacFarlane", "Seth Rogen", "Seth Rollins"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Who played Baron Victor Frankestein in the 1957 Hammer horror film &quot;The Curse of Frankenstein&quot;?",
+      "correct_answer": "Peter Cushing",
+      "incorrect_answers": ["Boris Karloff", "Vincent Price", "Lon Chaney Jr."]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Joseph Stalin had a criminal past doing what?",
+      "correct_answer": "Robbing Trains",
+      "incorrect_answers": ["Murder for Hire", "Tax Evasion", "Identity Fraud"]
+    },
+    {
+      "category": "Entertainment: Music",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the name of the 2016 studio album by the French electronic music duo Justice?",
+      "correct_answer": "Woman",
+      "incorrect_answers": ["Randy", "Safe and Sound", "Pleasure"]
+    },
+    {
+      "category": "Science: Gadgets",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which buzzword did Apple Inc. use to describe their removal of the headphone jack?",
+      "correct_answer": "Courage",
+      "incorrect_answers": ["Innovation", "Revolution", "Bravery"]
+    },
+    {
+      "category": "Vehicles",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "How much horsepower is produced by the SD40-2 Locomotive?",
+      "correct_answer": "3,000",
+      "incorrect_answers": ["3,200", "2,578", "2,190"]
+    },
+    {
+      "category": "Art",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "Which of these are the name of a famous marker brand?",
+      "correct_answer": "Copic",
+      "incorrect_answers": ["Dopix", "Cofix", "Marx"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the real name of the famous spanish humorist, El Risitas?",
+      "correct_answer": "Juan Joya Borga",
+      "incorrect_answers": [
+        "Gabriel Garcia Marquez",
+        "Jesus Quintero",
+        "Ernesto Guevara"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "On what medium was &quot;Clannad&quot; first created?",
+      "correct_answer": "Visual novel",
+      "incorrect_answers": ["Anime", "Manga", "Light novel"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What nucleotide pairs with guanine?",
+      "correct_answer": "Cytosine",
+      "incorrect_answers": ["Thymine", "Adenine", "Uracil"]
+    },
+    {
+      "category": "General Knowledge",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+      "correct_answer": "Print",
+      "incorrect_answers": ["Digest", "Look", "Read"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the capital of Belarus?",
+      "correct_answer": "Minsk",
+      "incorrect_answers": ["Warsaw", "Kiev", "Vilnius"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "&quot;The first rule is: you don&#039;t talk about it&quot; is a reference to which movie?",
+      "correct_answer": "Fight Club",
+      "incorrect_answers": ["The Island", "Unthinkable", "American Pie"]
+    },
+    {
+      "category": "Mythology",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "According to the Egyptian Myth of Osiris, who murdered Osiris?",
+      "correct_answer": "Set",
+      "incorrect_answers": ["Horus", "Ra", "Anhur"]
+    },
+    {
+      "category": "Entertainment: Television",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "In Battlestar Galactica (2004), Cylons were created by man as cybernetic workers and soldiers.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What household item make the characters of &quot;Steins; Gate&quot; travel through time?",
+      "correct_answer": "Microwave",
+      "incorrect_answers": ["Computer", "Refrigerator", "Televison"]
+    },
+    {
+      "category": "History",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what year did Kentucky become the 15th state to join the union?",
+      "correct_answer": "1792",
+      "incorrect_answers": ["1782", "1798", "1788"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "Android versions are named in alphabetical order.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "When was the top-down online RPG &quot;Space Station 13&quot; released?",
+      "correct_answer": "2003",
+      "incorrect_answers": ["2000", "2010", "2006"]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which person from &quot;JoJo&#039;s Bizarre Adventure&quot; does NOT house a reference to a band, artist, or song earlier than 1980?",
+      "correct_answer": "Giorno Giovanna",
+      "incorrect_answers": [
+        "Josuke Higashikata",
+        "Jolyne Cujoh",
+        "Johnny Joestar"
+      ]
+    },
+    {
+      "category": "Entertainment: Comics",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the alter-ego of the DC comics character &quot;Superman&quot;?",
+      "correct_answer": "Clark Kent",
+      "incorrect_answers": ["Bruce Wayne", "Arthur Curry", "John Jones"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What is the perk that was introduced in the &quot;Call Of Duty: Zombies&quot; map, &quot;Mob Of The Dead&quot;?",
+      "correct_answer": "Electric Cherry",
+      "incorrect_answers": ["Quick Revive", "Vulture Aid", "Tombstone"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "The walls of the Goldenrod City Gym in &quot;Pok&eacute;mon Gold and Silver&quot; are arranged in the shape of which Pok&eacute;mon?",
+      "correct_answer": "Clefairy",
+      "incorrect_answers": ["Bulbasaur", "Pikachu", "Pidgey"]
+    },
+    {
+      "category": "Entertainment: Books",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "Which is NOT a book in the Harry Potter Series?",
+      "correct_answer": "The House Elf",
+      "incorrect_answers": [
+        "The Chamber of Secrets",
+        "The Prisoner of Azkaban",
+        "The Deathly Hallows"
+      ]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "boolean",
+      "difficulty": "easy",
+      "question": "Water always boils at 100&deg;C, 212&deg;F, 373.15K, no matter where you are.",
+      "correct_answer": "False",
+      "incorrect_answers": ["True"]
+    },
+    {
+      "category": "Geography",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "The emblem on the flag of the Republic of Tajikistan features a sunrise over mountains below what symbol?",
+      "correct_answer": "Crown",
+      "incorrect_answers": ["Bird", "Sickle", "Tree"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "In what sport does Fanny Chmelar compete for Germany?",
+      "correct_answer": "Skiing",
+      "incorrect_answers": ["Swimming", "Showjumping", "Gymnastics"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What team did England beat in the semi-final stage to win in the 1966 World Cup final?",
+      "correct_answer": "Portugal",
+      "incorrect_answers": ["West Germany", "Soviet Union", "Brazil"]
+    },
+    {
+      "category": "Sports",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which city features all of their professional sports teams&#039; jersey&#039;s with the same color scheme?",
+      "correct_answer": "Pittsburgh",
+      "incorrect_answers": ["New York", "Seattle", "Tampa Bay"]
+    },
+    {
+      "category": "Entertainment: Cartoon & Animations",
+      "type": "multiple",
+      "difficulty": "medium",
+      "question": "What ability does Princess Sofia the First have from her amulet that allows her to breathe underwater?",
+      "correct_answer": "Mermaid Transformation",
+      "incorrect_answers": ["Artificial Gills", "Bubble Head", "Bubble Shield"]
+    },
+    {
+      "category": "Science: Computers",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "Which of these is not a layer in the OSI model for data communications?",
+      "correct_answer": "Connection Layer",
+      "incorrect_answers": [
+        "Application Layer",
+        "Transport Layer",
+        "Physical Layer"
+      ]
+    },
+    {
+      "category": "Entertainment: Japanese Anime & Manga",
+      "type": "boolean",
+      "difficulty": "medium",
+      "question": "In Full Metal Panic!, Whispered are those who are capable of creating Black Technology.",
+      "correct_answer": "True",
+      "incorrect_answers": ["False"]
+    },
+    {
+      "category": "Science & Nature",
+      "type": "multiple",
+      "difficulty": "hard",
+      "question": "What was the first organic compound to be synthesized from inorganic compounds?",
+      "correct_answer": "Urea",
+      "incorrect_answers": ["Propane", "Ethanol", "Formaldehyde"]
+    },
+    {
+      "category": "Entertainment: Video Games",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "What is the name of a popular franchise that includes placing blocks down and surviving in an open world? ",
+      "correct_answer": "Minecraft",
+      "incorrect_answers": ["Unturned", "Roblox", "Grand Theft Auto V"]
+    },
+    {
+      "category": "Entertainment: Film",
+      "type": "multiple",
+      "difficulty": "easy",
+      "question": "The 1996 film &#039;Fargo&#039; is primarily set in which US state?",
+      "correct_answer": "Minnesota",
+      "incorrect_answers": ["North Dakota", "South Dakota", "Wisconsin"]
+    }
+  ]
 }
